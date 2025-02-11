@@ -43,7 +43,7 @@ void CreateTempFile(ULONGLONG filesize) {
     GetRandomFileName(filename, 7);
 
     char fullPath[MAX_PATH];
-    snprintf(fullPath, MAX_PATH, "%s%s.txt", tempPath, filename);
+    snprintf(fullPath, MAX_PATH, "%s", tempPath, filename);
 
     HANDLE hFile = CreateFileA(
         fullPath,              
