@@ -27,9 +27,9 @@ FileBomb.exe
 ```
 
 ### 💀 Potential Risks
-System may slow down significantly or crash
-Some programs might stop working due to lack of disk space
-Could cause unexpected system errors or corruption if run on an OS drive
+##### System may slow down significantly or crash
+##### Some programs might stop working due to lack of disk space
+##### Could cause unexpected system errors or corruption if run on an OS drive
 
 ## 📢 Legal Notice
 This tool is strictly for educational purposes. The author does not take responsibility for any damages caused by running this program. Use responsibly. 🚀
